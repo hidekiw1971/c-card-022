@@ -1,7 +1,7 @@
 <img width="1359" alt="image" src="https://user-images.githubusercontent.com/99580997/225158662-33fe3a4f-b785-4335-89ac-b8d1920e39ec.png">
 
 # compornent（共通部品）
-- カードを3枚整列。4枚目は折り返しの設定。
+- カードを3枚整列。4枚目は折り返しの設定。768px以下時は縦並び。
 - 余白はgapで確保。
 
 # w3c html/css ck
